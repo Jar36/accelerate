@@ -24,10 +24,12 @@
     
 }
 
-#masthead a {
-	float: left;
-	margin: 0 10px;
-	
+.site-navigation .nav-menu {
+	overflow:auto;	
+}
+
+.site-navigation ul li {
+	float:left;
 }
 
 .button {
