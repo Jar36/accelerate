@@ -36,13 +36,13 @@
 
 .button {
     background: none repeat scroll 0 0 #45ac9d;
-    border-radius: 5px;
+    border-radius: 2px;
 }
 
 .button:hover {
 	background: transparent;
 	border: 1px solid #45ac9d;
-	border-radius: 5px;
+	border-radius: 2px;
 }
 
 /*======BLOG POST ON HOME PAGE ========*/
