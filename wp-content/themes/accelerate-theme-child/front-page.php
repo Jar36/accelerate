@@ -42,7 +42,7 @@ get_header(); ?>
 						<?php echo wp_get_attachment_image( $image_1, $size ); ?>
 					</figure>
 				
-					<h3><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
+					<h5><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h5>
 				</li>
 
 				<?php endwhile; ?>

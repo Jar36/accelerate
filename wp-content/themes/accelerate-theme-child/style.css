@@ -98,3 +98,45 @@ div.case-study-images img {
 	margin-bottom:50px;
 	border:1px solid #dddddd;
 }
+
+/*========== FEATURED WORK ON HOME PAGE ============*/
+
+.site-content{
+	margin-bottom: 50px;
+	padding-bottom: 20px;
+}
+.site-content h4{
+	text-transform: uppercase;
+	text-align: center;
+	font-weight: 600;
+}
+
+.homepage-featured-work h5 a{
+	font-weight: 400;
+	margin-left: 65px;
+	
+}
+
+figure {
+	padding-top: 40px;
+}
+
+.featured-work .site-content ul li{
+	display: inline;
+	list-style: none;
+}
+
+section.recent-posts {
+	width: 50%;
+	margin-left: 20px;
+}
+
+.blog-post h4{
+	color: #adadad;
+	text-align: left;
+}
+section.recent-posts{
+	width:60%;
+	margin-left: 200px;
+}
+
