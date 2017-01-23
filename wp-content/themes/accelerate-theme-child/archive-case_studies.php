@@ -18,8 +18,6 @@ get_header(); ?>
 			    $services = get_field('services');
 			?>
 
-<p>S THIS WORKING</p>
-
 			<article class="case-study">
 				<aside class="case-study-sidebar">
 					<h2><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h2>
